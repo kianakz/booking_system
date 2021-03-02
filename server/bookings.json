@@ -1,0 +1,7 @@
+[
+  { "id": 1, "time": "01 Mar 2018 11:00:00 GMT+1000", "duration": 180, "user_id": 1 },
+  { "id": 2, "time": "02 Mar 2018 11:00:00 GMT+1000", "duration": 180, "user_id": 1 },
+  { "id": 3, "time": "03 Mar 2018 11:00:00 GMT+1000", "duration": 180, "user_id": 1 },
+  { "id": 4, "time": "04 Mar 2018 11:00:00 GMT+1000", "duration": 180, "user_id": 2 },
+  { "id": 5, "time": "05 Mar 2018 11:00:00 GMT+1000", "duration": 180, "user_id": 3 }
+]
